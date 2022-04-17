@@ -3,4 +3,4 @@
 format "00:00:00"
 
 ## Timer up
-<img src="img/img.jpg" width="400"/>
+<img src="img/img.JPG" width="400"/>
